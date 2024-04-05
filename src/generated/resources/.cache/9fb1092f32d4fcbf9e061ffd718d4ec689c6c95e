@@ -1,0 +1,9 @@
+// 1.20.4	2024-04-05T19:23:23.3407705	Recipes
+9fde00570be7307ecf89f294206af24562fb5a15 data/minecraft/advancements/recipes/building_blocks/moon_block.json
+b699551df68985ad7299f201412731b874b9685e data/minecraft/advancements/recipes/misc/moon_ingot_from_moon_block.json
+20cc5246a95451ce6f8e7e490ef3629596fedae5 data/minecraft/recipes/moon_block.json
+ecd9b449cdf4a8c6d50013280c960a059462dab7 data/minecraft/recipes/moon_ingot_from_moon_block.json
+5d6fa677b422da6df07afc5e489f6180d5e52577 data/unnamedmod/advancements/recipes/misc/amethyst_dust_transform.json
+2e1816d3d9e3cd7fa837bea77ecb81d0e4b4db6c data/unnamedmod/advancements/recipes/misc/moon_ingot.json
+755b7eaf39c33f46e196ee1a529dcd6cdc29d288 data/unnamedmod/recipes/amethyst_dust_transform.json
+c5c4f2a44be894a4e4211fa374aad9a451369647 data/unnamedmod/recipes/moon_ingot.json

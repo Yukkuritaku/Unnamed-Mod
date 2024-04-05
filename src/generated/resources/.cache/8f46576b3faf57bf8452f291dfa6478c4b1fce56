@@ -1,0 +1,6 @@
+// 1.20.4	2024-04-05T19:23:23.3397666	Tags for minecraft:block mod id unnamedmod
+b847f208d573bc7efb2e49e22223506cc52ea2ce data/forge/tags/blocks/storage_blocks.json
+c286458df732d3976c41c52b6b5f1294044229ee data/forge/tags/blocks/storage_blocks/moon.json
+c286458df732d3976c41c52b6b5f1294044229ee data/minecraft/tags/blocks/beacon_base_blocks.json
+c286458df732d3976c41c52b6b5f1294044229ee data/minecraft/tags/blocks/mineable/pickaxe.json
+c286458df732d3976c41c52b6b5f1294044229ee data/unnamedmod/tags/blocks/needs_moon_tool.json

@@ -1,0 +1,10 @@
+{
+  "type": "unnamedmod:moon_transform",
+  "result": {
+    "item": "unnamedmod:moon_shard"
+  },
+  "transform_ingredient": {
+    "item": "unnamedmod:amethyst_dust"
+  },
+  "transform_time": 100
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "M": {
+      "item": "unnamedmod:moon_shard"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MIM",
+    "MMM"
+  ],
+  "result": {
+    "item": "unnamedmod:moon_ingot"
+  }
+}

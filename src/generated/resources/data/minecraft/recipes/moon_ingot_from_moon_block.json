@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "moon_ingot",
+  "ingredients": [
+    {
+      "item": "unnamedmod:moon_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "unnamedmod:moon_ingot"
+  }
+}
